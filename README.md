@@ -1,4 +1,4 @@
-# Speech-To-Text-Using-OpenAI
+# Aruco Marker Robot Arm
 Take any video and get a transcription using the powerful OpenAI package
 ------------
 ## Status 🟠 - In Progress
